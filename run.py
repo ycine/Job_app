@@ -17,3 +17,5 @@ print('JobGetter -  get_number_of_offers - succes')
 
 pracuj.loop_over_the_pages(number_of_offers, define)
 print('JobGetter - loop_over_the_pages - succes')
+
+pracuj.show_obtainded_offers()
