@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 import re
-# import pandas
+
 
 class JobGetter:
     main_url = 'https://www.pracuj.pl/praca/'
